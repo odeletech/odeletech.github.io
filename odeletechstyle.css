@@ -15,8 +15,19 @@ body {
     text-align: center; 
 }
 
+.loadani {
+    diplay: flex;
+    position: fixed;
+    size: cover;
+    background-color: #0000;
+}
+
+
 header {
-    position:fixed; top:0; left:0; url('oticon.jpg');
+    background-image: url('oticon.png');
+    background-position: left;
+    background-size: cover;
+    background-repeat: no-repeat;
 
 }
 
