@@ -30,20 +30,6 @@ body {
     
 }
 
-@keyframes loading {
-    from { transform: rotate(0turn) }
-    to { transform: rotate(1turn) }
-    
-}
-
-.loadani::after {
-    animation: loading 0.75s ease infinite;
-        
-}
-
-.loadani--hidden {
-    opacity: 0;
-    visbility: hidden;
 
 header a {
     color: white;
