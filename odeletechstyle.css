@@ -15,7 +15,7 @@ body {
     text-align: center; 
 }
 
-.loadani {
+#loadani {
     background: #000 url(oticon.gif) no-repeat center;
     height: 100%
     width: 100%
