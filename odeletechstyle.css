@@ -12,13 +12,16 @@ html, body {
 }
 
 #loadani {
-    background: #000 url('oticon.gif') no-repeat center;
-    height: 100%
-    width: 100%
-    position: fixed;
-    z-index: 100;  
-}
+    background: #000;
+    background-image: url('oticon.png') no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
 
+}
 
 header {
     color: white;
