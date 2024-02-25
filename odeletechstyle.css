@@ -16,18 +16,11 @@ body {
 }
 
 .loadani {
-    position: fixed;
-    top: 0;
-    left: 0;
-    width: 100%
+    background: #000 url(oticon.gif) no-repeat center;
     height: 100%
-    size: cover;
-    diplsay: flex;
-    align-tems: center;
-    justify-content: center;
-    transition: opacity 0.75s, visibility 0.75s;
-    background: #000;
-    
+    width: 100%
+    position: fixed;
+    z-index: 100;  
 }
 
 
