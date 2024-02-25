@@ -49,15 +49,6 @@ body {
     opacity: 0;
     visbility: hidden;
 
-
-header {
-    background-image: url('oticon.png');
-    background-position: left;
-    background-repeat: no-repeat;
-
-}
-
-
 header a {
     color: white;
     text-align: center;
