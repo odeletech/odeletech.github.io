@@ -4,6 +4,7 @@ html, body {
     background-color: #000; /* Set the entire background to black */
     background-image: url('lvspidyblack.jpg');
     background-size: cover;
+    background-repeat: no-repeat;
 }
 
 body {
