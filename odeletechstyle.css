@@ -31,12 +31,6 @@ header a {
     text-decoration: none;
 }
 
-header a:hover {
-    background-color: #0000;
-    color: black;
-}
-
-
 .navbar {
     background-color: #000;
     overflow: hidden;
