@@ -28,7 +28,6 @@ header {
 }
 
 header a {
-    float: left;
     display: block;
     color: white;
     text-align: center;
@@ -49,7 +48,7 @@ header a:hover {
 }
 
 .navbar a {
-    float: left;
+    float: right;
     display: block;
     color: white;
     text-align: center;
