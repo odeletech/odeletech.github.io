@@ -16,7 +16,7 @@ body {
 }
 
 #loadani {
-    background: #000 url(oticon.gif) no-repeat center;
+    background: #000 url('oticon.gif') no-repeat center;
     height: 100%
     width: 100%
     position: fixed;
