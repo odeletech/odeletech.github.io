@@ -27,6 +27,21 @@ header {
     padding: 2rem;
 }
 
+header a {
+    float: left;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 0.5rem 1rem;
+    text-decoration: none;
+}
+
+header a:hover {
+    background-color: #0000;
+    color: black;
+}
+
+
 .navbar {
     background-color: #000;
     overflow: hidden;
@@ -46,6 +61,7 @@ header {
     background-color: #0000;
     color: black;
 }
+
 
 
 footer {
