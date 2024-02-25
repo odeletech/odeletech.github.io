@@ -11,6 +11,16 @@ html, body {
     flex-direction: column;
 }
 
+#loadani {
+    background: #000; url('oticon.png');
+    background-position: center;
+    height: 100%
+    width: 100%
+    position: fixed;
+    z-index: 100;
+
+} 
+
 header {
     color: white;
     text-align: center;
