@@ -28,6 +28,7 @@ header {
 }
 
 header a {
+    float: none;
     display: block;
     color: white;
     text-align: center;
