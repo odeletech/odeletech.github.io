@@ -25,11 +25,6 @@ body {
     diplsay: flex;
     align-tems: center;
     justify-content: center;
-    background-image: url('oticon.png');
-    background-position: center;
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-color: #0000;
     transition: opacity 0.75s, visibility 0.75s;
     
 }
