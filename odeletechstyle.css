@@ -8,13 +8,6 @@ html, body {
     background-repeat: no-repeat;
 }
 
-body {
-    display: flex;
-    flex-direction: column;
-    font-family: Arial, sans-serif;
-    text-align: center; 
-}
-
 #loadani {
     background: #000 url('oticon.gif') no-repeat center;
     height: 100%
