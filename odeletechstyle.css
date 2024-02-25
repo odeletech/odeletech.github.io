@@ -2,6 +2,7 @@ html, body {
     height: 100%;
     margin: 0;
     background-color: #000; /* Set the entire background to black */
+    background-image: url('lvspidyblack.jpg');
 }
 
 body {
