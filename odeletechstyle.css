@@ -3,7 +3,6 @@ html, body {
     margin: 0;
     background-color: #000; /* Set the entire background to black */
     background-image: url('lvspidyblack.jpg');
-    position:fixed; top:0; left:0; url('oticon.jpg');
 }
 
 body {
@@ -14,6 +13,7 @@ body {
 }
 
 header {
+    position:fixed; top:0; left:0; url('oticon.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
