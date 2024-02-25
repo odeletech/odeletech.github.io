@@ -43,19 +43,13 @@ header {
 }
 
 .navbar a:hover {
-    background-color: #ddd;
+    background-color: #0000;
     color: black;
 }
 
-footer {
-    background-color: #212121;
-    color: #fff;
-    margin-top: auto;
-    padding: 1rem;
-}
 
 footer {
-    background-color: #212121;
+    background-color: #0000;
     color: #fff;
     margin-top: auto;
     padding: 1rem;
