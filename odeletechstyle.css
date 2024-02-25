@@ -11,18 +11,6 @@ html, body {
     flex-direction: column;
 }
 
-#loadani {
-    background: #000;
-    background-image: url('oticon.png') no-repeat;
-    background-position: center;
-    background-size: cover;
-    background-repeat: no-repeat;
-    min-height: 100vh;
-    display: flex;
-    flex-direction: column;
-
-}
-
 header {
     color: white;
     text-align: center;
